@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Resep Kue Aceh - Timphan</title>
+</head>
+<body>
+    <h1>Resep Kue Tradisional Aceh</h1>
+    <h2>Timphan Srikaya</h2>
+
+    <h3>Bahan Adonan Kulit:</h3>
+    <ul>
+        <li>250 gr tepung ketan</li>
+        <li>200 gr pisang raja/paya, haluskan</li>
+        <li>200 ml santan hangat</li>
+        <li>1/2 sdt garam</li>
+        <li>Daun pisang muda secukupnya (untuk pembungkus)</li>
+        <li>Minyak kelapa secukupnya untuk olesan</li>
+    </ul>
+
+    <h3>Bahan Isian Srikaya:</h3>
+    <ul>
+        <li>4 butir telur</li>
+        <li>200 ml santan kental</li>
+        <li>150 gr gula pasir</li>
+        <li>1 lembar daun pandan</li>
+    </ul>
+
+    <h3>Cara membuat:</h3>
+    <ol>
+        <li><strong>Isian:</strong> Kocok telur dan gula, masukkan santan dan daun pandan. Masak di atas api kecil sambil diaduk hingga mengental. Angkat dan dinginkan.</li>
+        <li><strong>Kulit:</strong> Campur tepung ketan, pisang halus, garam, dan santan hangat. Uleni hingga kalis dan bisa dibentuk.</li>
+        <li>Ambil selembar daun pisang, olesi minyak kelapa. Pipihkan sedikit adonan kulit, beri isian srikaya, lalu gulung dan bungkus rapi.</li>
+        <li>Kukus timphan selama kurang lebih 20–30 menit hingga matang.</li>
+        <li>Angkat dan sajikan.</li>
+    </ol>
+</body>
+</html>
